@@ -1,4 +1,4 @@
-1. Scrum Roles
+1. Scrum Roles.
    a. Kihega, Alpha Deniss -Product owner.
    b. Ng'ombo, Josephine Alex - Scrum Master.
    c. Akila, Innocent         -Developer
@@ -9,7 +9,7 @@
    h. Aneth                    -Developer
 
 
-2. Scrum Events
+2. Scrum Events.
      a. Sprint planning
      - Team meets to discuss product requirements as submitted by product owner.
      - Prioritizing backlog items and selecting tasks to be completed during the sprint.
@@ -23,3 +23,15 @@
      d. Sprint Retrospective
      - The team reflects on the sprint to identify what done correctly, challenges faced, and improvements to be done. 
       
+
+3. Scrum Artifacts.
+     a. Product Backlog
+     - Listing all important features for scrum task management app
+
+     b. Sprint Backlog
+     - Check the lists of selected backlog that the team commits to completing during sprint
+
+     c. Increement
+     - Checking working version of the system or apllication and tested features at end of sprint.
+       
+
